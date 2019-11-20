@@ -12,4 +12,19 @@ p {
 }
 ul {
   line-height: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+  color: rebeccapurple;
+}
+ol {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 40px;
+}
+html {
+  background-color: rosybrown;
+}
+head {
+  font-size: large;
+  font-style: italic;
 }
